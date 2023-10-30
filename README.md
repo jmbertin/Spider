@@ -1,6 +1,6 @@
 # Spider
 
-This program fetches image URLs from a given webpage. If the recursive mode is activated, it will also scrape images from linked pages within the primary webpage, up to the specified depth. Found images are downloaded and saved to the specified directory.
+This program fetches image URLs from a given webpage (scrapper). If the recursive mode is activated, it will also scrape images from linked pages within the primary webpage, up to the specified depth. Found images are downloaded and saved to the specified directory.
 
 ----
 
